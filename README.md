@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marlettau
-- 👀 I’m interested in Cars
+- 👀 I’m interested in code
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram @marlettau
