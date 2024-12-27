@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram @marlettau
+- 🌐 Laungages: C++, C#, Java, Javascript, PHP, Python, Objective-C
 
 <!---
 marlettau/marlettau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
